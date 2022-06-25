@@ -1,0 +1,19 @@
+{
+  "name": "oye-bhai",
+  "version": "1.0.0",
+  "description": "language made in js",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodyAaTherf/oye-bhai.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodyAaTherf/oye-bhai/issues"
+  },
+  "homepage": "https://github.com/CodyAaTherf/oye-bhai#readme"
+}
